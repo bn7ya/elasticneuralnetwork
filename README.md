@@ -1,4 +1,4 @@
-# elasticneuralnetwork
+# elasticneuralnetwork (DIPRECATED)
 
 A **PyTorch C++ extension** for dynamic neural networks — networks
 that grow and prune themselves during training. Built on libtorch via
